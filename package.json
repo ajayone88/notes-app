@@ -1,0 +1,16 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "This is application uses command line to get the inputs and add, remove, list notes from JSON file (Simple notes App).",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Ajay Maurya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "yargs": "^15.3.1"
+  }
+}
